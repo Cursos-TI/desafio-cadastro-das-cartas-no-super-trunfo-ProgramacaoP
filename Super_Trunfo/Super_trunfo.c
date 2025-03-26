@@ -28,4 +28,6 @@ int main() {
       printf("Digite o Numero de Pontos Turisticos:  \n");
       scanf("%d", &PontosTuristicos);
 
+       // Abaixo exibição dos dados da carta
+
 }
