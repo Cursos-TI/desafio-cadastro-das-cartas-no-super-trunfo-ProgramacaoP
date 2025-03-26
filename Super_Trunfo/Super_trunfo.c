@@ -12,4 +12,6 @@ int main() {
     float PIB = 21.8;
     int PontosTuristicos = 20;
 
+      // Abaixo solicitação de entrada de dados para cada atributo da carta
+
 }
