@@ -1,9 +1,11 @@
 #include <stdio.h>
 
 int main() {
-    printf("Cadastro da Cartas A01\n");
-    // Acima printf para definir qual carta está sendo cadastrada
-    // Abaixo definição de variáveis para cada atributo da carta
+    printf("Cadastro de Cartas I e II do Jogo Super Trunfo\n");
+    // Acima printf para informando quis cartas estão sendo cadastradas - Nivel Novato
+
+    // Abaixo definição de variáveis para cada atributo da carta - Nivel Novato
+    //DADOS DA CARTA I
     char Estado[1] = "A";
     char CodigodaCarta[03] = "A01";
     char Cidade[20] = "Salvador";
