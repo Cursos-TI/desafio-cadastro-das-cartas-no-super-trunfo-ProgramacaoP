@@ -14,23 +14,23 @@ int main() {
     int PontosTuristicos = 17;
     //Inserindo novas variáveis para o nivel intermediário
 
-     // Abaixo solicitação de entrada de dados para cada atributo da carta
-     printf("Digite o Estado: ");
-     scanf("%s", Estado);
-     printf("Digite o Codigo da Carta: ");
-     scanf("%s", CodigodaCarta);
-     printf("Digite o Nome da cidade: ");
-     scanf("%s", Cidade);
-     printf("Digite a Populacao: ");
-     scanf("%d", &Populacao);
-     printf("Digite a Area: ");
-     scanf("%f", &Area);
-     printf("Digite o PIB: ");
-     scanf("%f", &PIB);
-     printf("Digite o Numero de Pontos Turisticos:  \n");
-     scanf("%d", &PontosTuristicos);
+    // Abaixo solicitação de entrada de dados para cada atributo da carta
+    printf("Digite o Estado: ");
+    scanf("%s", Estado);
+    printf("Digite o Codigo da Carta: ");
+    scanf("%s", CodigodaCarta);
+    printf("Digite o Nome da cidade: ");
+    scanf("%s", Cidade);
+    printf("Digite a Populacao: ");
+    scanf("%d", &Populacao);
+    printf("Digite a Area: ");
+    scanf("%f", &Area);
+    printf("Digite o PIB: ");
+    scanf("%f", &PIB);
+    printf("Digite o Numero de Pontos Turisticos:  \n");
+    scanf("%d", &PontosTuristicos);
 
-     // Abaixo exibição dos dados da carta
+    // Abaixo exibição dos dados da carta
     printf("Estado: %s\n", Estado);
     printf("Codigo da Carta: %s\n", CodigodaCarta);
     printf("Nome da Cidade: %s\n", Cidade);
