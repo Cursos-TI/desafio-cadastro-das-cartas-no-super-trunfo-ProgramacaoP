@@ -40,6 +40,7 @@ int main() {
     printf("Area: %.2f\n", Area);
     printf("PIB: %.2f\n", PIB);
     printf("Numero de Pontos Turisticos: %d\n", PontosTuristicos);
+    //inserindo novas funcionalidade de divisão e exibição
 
     return 0;
     
