@@ -12,6 +12,7 @@ int main() {
     float Area = 312.3;
     float PIB = 74.4;
     int PontosTuristicos = 17;
+    //Inserindo novas variáveis para o nivel intermediário
 
      // Abaixo solicitação de entrada de dados para cada atributo da carta
      printf("Digite o Estado: ");
