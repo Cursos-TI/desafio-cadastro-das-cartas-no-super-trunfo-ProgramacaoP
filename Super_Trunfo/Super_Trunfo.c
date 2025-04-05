@@ -17,7 +17,22 @@ int main() {
     //Inserindo novas variáveis - Nivel Aventureiro
     float DensidadePopulacionalI = PopulacaoI / AreaI;
     float PibPerCaptaI = PopulacaoI / PibI;
+
     
+    // Abaixo definição de variáveis para cada atributo da carta - Nivel Novato
+    //DADOS DA CARTA II
+    char EstadoII[03] = "B";
+    char CodigodaCartaII[05] = "B01";
+    char CidadeII[12] = "Fortaleza";
+    int PopulacaoII = 2428678;
+    float AreaII = 312.3;
+    float PibII = 74.4;
+    int PontosTuristicosII = 17;
+
+    //Inserindo novas variáveis - Nivel Aventureiro
+    float DensidadePopulacionalII = PopulacaoII / AreaII;
+    float PibPerCaptaII = PopulacaoII / PibII;
+
     // Abaixo solicitação de entrada de dados para cada atributo da carta
     printf("Digite o Estado: ");
     scanf("%s", Estado);
