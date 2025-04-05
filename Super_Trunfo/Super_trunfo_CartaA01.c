@@ -12,6 +12,8 @@ int main() {
     float PIB = 21.8;
     int PontosTuristicos = 20;
     //Inserindo novas variáveis para o nivel intermediário
+    float DensidadePopulacional = Populacao / Area;
+    float PibPerCapta = Populacao / PIB;
 
     // Abaixo solicitação de entrada de dados para cada atributo da carta
     printf("Digite o Estado: ");
