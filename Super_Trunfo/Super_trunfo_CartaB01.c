@@ -41,7 +41,8 @@ int main() {
     printf("PIB: %.2f\n", PIB);
     printf("Numero de Pontos Turisticos: %d\n", PontosTuristicos);
     //inserindo novas funcionalidade de divisão e exibição
-    
+    printf("A Densidade populaçional é: %.2f \n", DensidadePopulacional);
+    printf("O Pib Per Capta é de: %.2f \n", PibPerCapta);
 
     return 0;
     
