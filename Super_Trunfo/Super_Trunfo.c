@@ -66,57 +66,57 @@ int main() {
     printf("Digite o Numero de Pontos Turisticos:  ");
     scanf("%d", &PontosTuristicosII);
     // Abaixo exibição dos dados das cartas - Nivel Novato
-     printf("\n\nDados inseridos pelo usuário para a Carta I\n");
-     printf("Estado:%s\n", EstadoI);
-     printf("Codigo da Carta:%s\n", CodigodaCartaI);
-     printf("Nome da Cidade:%s\n", CidadeI);
-     printf("Populacao: %d\n", PopulacaoI);
-     printf("Area: %.2f\n", AreaI);
-     printf("PIB: %.2f\n", PibI);
-     printf("Numero de Pontos Turisticos: %d\n", PontosTuristicosI);
+    printf("\n\nDados inseridos pelo usuário para a Carta I\n");
+    printf("Estado:%s\n", EstadoI);
+    printf("Codigo da Carta:%s\n", CodigodaCartaI);
+    printf("Nome da Cidade:%s\n", CidadeI);
+    printf("Populacao: %d\n", PopulacaoI);
+    printf("Area: %.2f\n", AreaI);
+    printf("PIB: %.2f\n", PibI);
+    printf("Numero de Pontos Turisticos: %d\n", PontosTuristicosI);
 
-     //inserindo novas funcionalidade de divisão e exibição - Nivel Aventureiro
-     printf("A Densidade populaçional é: %.2f \n", DensidadePopulacionalI);
-     printf("O Pib Per Capta é de: %.2f \n", PibPerCaptaI);
+    //inserindo novas funcionalidade de divisão e exibição - Nivel Aventureiro
+    printf("A Densidade populaçional é: %.2f \n", DensidadePopulacionalI);
+    printf("O Pib Per Capta é de: %.2f \n", PibPerCaptaI);
 
-     printf("\n\nDados inseridos pelo usuário para a Carta II\n");
-     printf("Estado: %s\n", EstadoII);
-     printf("Codigo da Carta: %s\n", CodigodaCartaII);
-     printf("Nome da Cidade: %s\n", CidadeII);
-     printf("Populacao: %d\n", PopulacaoII);
-     printf("Area: %.2f\n", AreaII);
-     printf("PIB: %.2f\n", PibII);
-     printf("Numero de Pontos Turisticos: %d\n", PontosTuristicosII);
+    printf("\n\nDados inseridos pelo usuário para a Carta II\n");
+    printf("Estado: %s\n", EstadoII);
+    printf("Codigo da Carta: %s\n", CodigodaCartaII);
+    printf("Nome da Cidade: %s\n", CidadeII);
+    printf("Populacao: %d\n", PopulacaoII);
+    printf("Area: %.2f\n", AreaII);
+    printf("PIB: %.2f\n", PibII);
+    printf("Numero de Pontos Turisticos: %d\n", PontosTuristicosII);
 
-     //inserindo novas funcionalidade de divisão e exibição - Nivel Aventureiro
-     printf("A Densidade populaçional é: %.2f \n", DensidadePopulacionalII);
-     printf("O Pib Per Capta é de: %.2f \n", PibPerCaptaII);
-     // Abaixo exibição dos dados das cartas - Nivel Novato
-     printf("\n\nDados inseridos pelo usuário para a Carta I\n");
-     printf("Estado:%s\n", EstadoI);
-     printf("Codigo da Carta:%s\n", CodigodaCartaI);
-     printf("Nome da Cidade:%s\n", CidadeI);
-     printf("Populacao: %d\n", PopulacaoI);
-     printf("Area: %.2f\n", AreaI);
-     printf("PIB: %.2f\n", PibI);
-     printf("Numero de Pontos Turisticos: %d\n", PontosTuristicosI);
+    //inserindo novas funcionalidade de divisão e exibição - Nivel Aventureiro
+    printf("A Densidade populaçional é: %.2f \n", DensidadePopulacionalII);
+    printf("O Pib Per Capta é de: %.2f \n", PibPerCaptaII);
+    // Abaixo exibição dos dados das cartas - Nivel Novato
+    printf("\n\nDados inseridos pelo usuário para a Carta I\n");
+    printf("Estado:%s\n", EstadoI);
+    printf("Codigo da Carta:%s\n", CodigodaCartaI);
+    printf("Nome da Cidade:%s\n", CidadeI);
+    printf("Populacao: %d\n", PopulacaoI);
+    printf("Area: %.2f\n", AreaI);
+    printf("PIB: %.2f\n", PibI);
+    printf("Numero de Pontos Turisticos: %d\n", PontosTuristicosI);
 
-     //inserindo novas funcionalidade de divisão e exibição - Nivel Aventureiro
-     printf("A Densidade populaçional é: %.2f \n", DensidadePopulacionalI);
-     printf("O Pib Per Capta é de: %.2f \n", PibPerCaptaI);
+    //inserindo novas funcionalidade de divisão e exibição - Nivel Aventureiro
+    printf("A Densidade populaçional é: %.2f \n", DensidadePopulacionalI);
+    printf("O Pib Per Capta é de: %.2f \n", PibPerCaptaI);
 
-     printf("\n\nDados inseridos pelo usuário para a Carta II\n");
-     printf("Estado: %s\n", EstadoII);
-     printf("Codigo da Carta: %s\n", CodigodaCartaII);
-     printf("Nome da Cidade: %s\n", CidadeII);
-     printf("Populacao: %d\n", PopulacaoII);
-     printf("Area: %.2f\n", AreaII);
-     printf("PIB: %.2f\n", PibII);
-     printf("Numero de Pontos Turisticos: %d\n", PontosTuristicosII);
+    printf("\n\nDados inseridos pelo usuário para a Carta II\n");
+    printf("Estado: %s\n", EstadoII);
+    printf("Codigo da Carta: %s\n", CodigodaCartaII);
+    printf("Nome da Cidade: %s\n", CidadeII);
+    printf("Populacao: %d\n", PopulacaoII);
+    printf("Area: %.2f\n", AreaII);
+    printf("PIB: %.2f\n", PibII);
+    printf("Numero de Pontos Turisticos: %d\n", PontosTuristicosII);
 
-     //inserindo novas funcionalidade de divisão e exibição - Nivel Aventureiro
-     printf("A Densidade populaçional é: %.2f \n", DensidadePopulacionalII);
-     printf("O Pib Per Capta é de: %.2f \n", PibPerCaptaII);
+    //inserindo novas funcionalidade de divisão e exibição - Nivel Aventureiro
+    printf("A Densidade populaçional é: %.2f \n", DensidadePopulacionalII);
+    printf("O Pib Per Capta é de: %.2f \n", PibPerCaptaII);
 
    return 0;
 
